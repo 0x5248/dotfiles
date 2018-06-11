@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-trizen -Sy
+trizen --refresh #it's the same like trizen -y
 
 UPDATE="$(trizen -Qu | wc -l)"
 #echo ${UPDATE}
