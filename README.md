@@ -1,20 +1,20 @@
 # dotfiles
 ## vim
-####### .vimrc
+- .vimrc
 
 ## xorg
-####### .xinitrc
+- .xinitrc
 
 ## zsh
-####### .zshrc
-####### .zprofile
+- .zshrc
+- .zprofile
 
 ## i3
-####### config
+- config
 
 ## polybar
-####### config
-####### launch.sh
+- config
+- launch.sh
 
 ## termite
-####### config
+- config
